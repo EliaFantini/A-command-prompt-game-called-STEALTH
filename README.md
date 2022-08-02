@@ -3,7 +3,7 @@
 </p>
 <br/>
 <p align="left">
-    A simple command line arcade game, created in order to train with the basics of C programming language after the first semester at my Bachelor's degree :man_student:.
+    A simple command line arcade game, created in order to train with the basics of C programming language after the first semester of my Bachelor's degree :man_student:.
 </p>
 
 ## Author
