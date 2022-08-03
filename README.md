@@ -1,6 +1,17 @@
-<p align="left">
+<p align="center">
   <img alt="🥷STEALTH" src="https://user-images.githubusercontent.com/62103572/182390438-c9646eaf-5fe2-4053-8a01-7fc3ce0ed69e.png">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/EliaFantini/A-command-prompt-game-called-STEALTH">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/A-command-prompt-game-called-STEALTH">
+  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/A-command-prompt-game-called-STEALTH">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/A-command-prompt-game-called-STEALTH">
+  <img alt="GitHub file count" src="https://img.shields.io/github/directory-file-count/EliaFantini/A-command-prompt-game-called-STEALTH">
+  <img alt="GitHub follow" src="https://img.shields.io/github/followers/EliaFantini?label=Follow">
+  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/A-command-prompt-game-called-STEALTH?label=Fork">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/A-command-prompt-game-called-STEALTH?label=Watch">
+  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/A-command-prompt-game-called-STEALTH?style=social">
+  	
 </p>
+
 <br/>
 <p align="left">
     A simple command line arcade game, created in order to train with the basics of C programming language after the first semester of my Bachelor's degree :man_student:.
